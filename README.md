@@ -4,14 +4,14 @@ A comprehensive Python tool for assessing password strength and complexity. This
 
 ## Features
 
-### 🔒 Password Analysis
+###  Password Analysis
 - **Length Assessment**: Evaluates password length (minimum 8 characters recommended)
 - **Character Variety**: Checks for uppercase, lowercase, numbers, and special characters
 - **Pattern Detection**: Identifies common weak patterns (sequential, repeated, keyboard patterns)
 - **Entropy Calculation**: Measures password randomness and complexity
 - **Common Password Detection**: Flags known weak passwords
 
-### 🎯 Strength Levels
+###  Strength Levels
 - **Very Weak**: Score < 10
 - **Weak**: Score 10-19
 - **Fair**: Score 20-34
@@ -202,10 +202,6 @@ python -m pytest --cov=password_checker --flake8 --mypy
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
