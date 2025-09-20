@@ -1,0 +1,9 @@
+# No external dependencies required
+# Uses only Python standard library modules:
+# - tkinter (for GUI)
+# - re (for regex)
+# - typing (for type hints)
+# - enum (for enums)
+# - unittest (for testing)
+# - secrets (for password generation)
+# - string (for character sets)
